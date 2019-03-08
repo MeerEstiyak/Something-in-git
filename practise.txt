@@ -1,1 +1,1 @@
-Hi there this is first time i'm writing a line in git
+HI there first time i'm writing in a branch of a git it's really amazing
