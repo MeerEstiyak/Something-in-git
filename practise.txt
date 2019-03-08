@@ -1,1 +1,1 @@
-Hi there this is first time i'm writing a line in git
+hi
